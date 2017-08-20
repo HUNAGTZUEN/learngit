@@ -4,4 +4,5 @@ Git has a mutable index called stage
 try to add this row
 git tracks change of files
 modifed again
-my stupid boss still prefer svn 
+my stupid boss still prefer svn
+creating a new branch is quick 
